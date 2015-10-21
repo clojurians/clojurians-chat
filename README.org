@@ -1,0 +1,7 @@
+#+TITLE: Readme for clojurians-chat
+#+LANGUAGE:  en
+
+* What is this?                                             
+This will become the ultimate chat platform for the clojure community, built by
+the clojure community. Not only do we want to provide a realtime chat platform,
+we want to showcase the ecosystem and the tools this language has to offer.
